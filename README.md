@@ -13,6 +13,12 @@ Before running the game, please ensure you have the following Python libraries i
 - `pyfiglet`
 - `colorama`
 
+## Install
+
+- pip install colorama
+- pip install pyfiglet
+
+
 ## Scoring
 
 The game starts with 200 points, and each time you win, the points from the chosen level are deducted from your total score.
